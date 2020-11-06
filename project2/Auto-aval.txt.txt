@@ -1,0 +1,31 @@
+POO - Trabalho de Grupo 2 - 2018/2019
+Autor: Paulo António Luís nº 17359 
+_________________________________________________________________
+Para este trabalho estão feitos todos os requesitos Essencias e um não essencial
+
+ATT.: No inicio do Jogo as peças pretas estão desativas.
+
+Req. 1 - Código de Teste 
+	- gastei duas aulas Praticas 6h;
+	
+Req. 2 - Classes para cada peça
+	- Gastei 30h
+		
+Req. 3 - Gravação dos movimentos em ficheiro
+        -Gastei 1 dia enteiro
+
+
+Req. 4 -Desenho do Tabuleiro
+	-Gastei 5h
+
+4 Requisitos Nao Essenciais
+
+Req. 5 – Jogo 
+	- gastei 00:30h 
+E está feito parcialmente o possivel movimento do cavalo
+ 
+Autoavaliação 
+
+Sendo que ficou feito os requisitos essências (total 10V), e ficou feito um dos requisitos não essências o 
+Req 5(3V) e pela originalidade na resolução de alguns dos requisitos, 
+acredito 13.5V corresponde ao trabalho que apresento.
