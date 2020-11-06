@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04de2eb9-eb04-460e-93e0-5215efc4d158" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.53115016">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/GameModel.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="171">
+                  <caret line="101" column="24" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#9303#9304#0" expanded="true" />
+                    <element signature="e#9352#9353#0" expanded="true" />
+                    <element signature="e#9592#9593#0" expanded="true" />
+                    <element signature="e#9643#9644#0" expanded="true" />
+                    <element signature="e#9788#9789#0" expanded="true" />
+                    <element signature="e#9830#9831#0" expanded="true" />
+                    <element signature="e#9937#9938#0" expanded="true" />
+                    <element signature="e#9964#9965#0" expanded="true" />
+                    <element signature="e#10141#10142#0" expanded="true" />
+                    <element signature="e#10189#10190#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecePawn.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1700">
+                  <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#3140#3141#0" expanded="true" />
+                    <element signature="e#3226#3227#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceQueen.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="595">
+                  <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="44" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#14079#14080#0" expanded="true" />
+                    <element signature="e#14174#14175#0" expanded="true" />
+                    <element signature="e#14303#14304#0" expanded="true" />
+                    <element signature="e#14341#14342#0" expanded="true" />
+                    <element signature="e#14514#14515#0" expanded="true" />
+                    <element signature="e#14540#14541#0" expanded="true" />
+                    <element signature="e#14670#14671#0" expanded="true" />
+                    <element signature="e#14764#14765#0" expanded="true" />
+                    <element signature="e#15255#15256#0" expanded="true" />
+                    <element signature="e#15295#15296#0" expanded="true" />
+                    <element signature="e#15800#15801#0" expanded="true" />
+                    <element signature="e#15897#15898#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesKing.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1734">
+                  <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1035#1036#0" expanded="true" />
+                    <element signature="e#1066#1067#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesTower.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3791">
+                  <caret line="231" selection-start-line="231" selection-end-line="231" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#1989#1990#0" expanded="true" />
+                    <element signature="e#2015#2016#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/TypeOfPieces.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesBishop.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2516">
+                  <caret line="155" column="106" selection-start-line="155" selection-start-column="106" selection-end-line="155" selection-end-column="106" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#7882#7883#0" expanded="true" />
+                    <element signature="e#7919#7920#0" expanded="true" />
+                    <element signature="e#8002#8003#0" expanded="true" />
+                    <element signature="e#8039#8040#0" expanded="true" />
+                    <element signature="e#8148#8149#0" expanded="true" />
+                    <element signature="e#8243#8244#0" expanded="true" />
+                    <element signature="e#8373#8374#0" expanded="true" />
+                    <element signature="e#8467#8468#0" expanded="true" />
+                    <element signature="e#9096#9097#0" expanded="true" />
+                    <element signature="e#9134#9135#0" expanded="true" />
+                    <element signature="e#9308#9309#0" expanded="true" />
+                    <element signature="e#9334#9335#0" expanded="true" />
+                    <element signature="e#9845#9846#0" expanded="true" />
+                    <element signature="e#9942#9943#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceHorse.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2431">
+                  <caret line="147" selection-start-line="147" selection-end-line="147" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/model/GameModelTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="436">
+                  <caret line="494" column="18" selection-start-line="494" selection-start-column="18" selection-end-line="494" selection-end-column="18" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>awn</find>
+      <find>color</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/ChessPiece.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/Start.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/ChessPieces.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/Board.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesEmpty.java" />
+        <option value="$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/pieces/PiecesTest.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/TypePieces.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/TypeOfPieces.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/Position.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/ColorPiece.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/View.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/model/ViewTest.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/Gui.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/ChessButton.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecePawn.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/Pieces.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesBishop.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceQueen.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceHorse.java" />
+        <option value="$PROJECT_DIR$/File1.txt" />
+        <option value="$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/model/GameModelTest.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesTower.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesKing.java" />
+        <option value="$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/GameModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+              <item name="pieces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17359_PauloLuis_TP02_PO2_2018-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="chess" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pt.ipbeja.estig.po2.chess.model" />
+      <recent name="pt.ipbeja.estig.po2.chess.pieces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\p_lui\Documents\Eng Informatica\POO\Trabalho_Pratico_Avaliacao_2\17359_PauloLuis_TP02_PO2_2018-2019_V1\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.ipbeja.estig.po2.chess.model" />
+      <recent name="pt.ipbeja.estig.po2.chess.gui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GameModelTest">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.po2.chess.gui.Start" />
+      <module name="17359_PauloLuis_TP02_PO2_2018-2019_V1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.po2.chess.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17359_PauloLuis_TP02_PO2_2018-2019_V1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.po2.chess.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.estig.po2.chess.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.po2.chess.model.GameModelTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest.test01King" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17359_PauloLuis_TP02_PO2_2018-2019_V1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.po2.chess.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.estig.po2.chess.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.po2.chess.model.GameModelTest" />
+      <option name="METHOD_NAME" value="test01King" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest.test02King" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17359_PauloLuis_TP02_PO2_2018-2019_V1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.po2.chess.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.estig.po2.chess.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.po2.chess.model.GameModelTest" />
+      <option name="METHOD_NAME" value="test02King" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest.test02Tower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17359_PauloLuis_TP02_PO2_2018-2019_V1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ipbeja.estig.po2.chess.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ipbeja.estig.po2.chess.model" />
+      <option name="MAIN_CLASS_NAME" value="pt.ipbeja.estig.po2.chess.model.GameModelTest" />
+      <option name="METHOD_NAME" value="test02Tower" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameModelTest" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.GameModelTest.test02King" />
+        <item itemvalue="JUnit.GameModelTest.test02Tower" />
+        <item itemvalue="JUnit.GameModelTest.test01King" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04de2eb9-eb04-460e-93e0-5215efc4d158" name="Default Changelist" comment="" />
+      <created>1558968885281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558968885281</updated>
+      <workItem from="1558968888942" duration="4869000" />
+      <workItem from="1559136769141" duration="16865000" />
+      <workItem from="1559659828858" duration="1590000" />
+      <workItem from="1559741979322" duration="12825000" />
+      <workItem from="1559755136365" duration="12000" />
+      <workItem from="1559813613104" duration="2166000" />
+      <workItem from="1559816944300" duration="12484000" />
+      <workItem from="1559902332769" duration="8838000" />
+      <workItem from="1560087232177" duration="18508000" />
+      <workItem from="1560117149108" duration="227000" />
+      <workItem from="1560120353756" duration="3520000" />
+      <workItem from="1560123902530" duration="23000" />
+      <workItem from="1560170881963" duration="12656000" />
+      <workItem from="1560373467884" duration="200000" />
+      <workItem from="1560507981092" duration="9911000" />
+      <workItem from="1560521300617" duration="4065000" />
+      <workItem from="1560531739213" duration="14004000" />
+      <workItem from="1560595449593" duration="604000" />
+      <workItem from="1560784616035" duration="5862000" />
+      <workItem from="1560791575747" duration="3788000" />
+      <workItem from="1560809834336" duration="37486000" />
+      <workItem from="1560900459619" duration="3712000" />
+      <workItem from="1560937267189" duration="23234000" />
+      <workItem from="1561022432786" duration="26567000" />
+      <workItem from="1561127666398" duration="3544000" />
+      <workItem from="1561631923195" duration="6516000" />
+      <workItem from="1561638682534" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameModelTest_test01King - 2019.06.21 at 16h 13m 49s.xml">
+      <configuration name="GameModelTest.test01King" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest - 2019.06.27 at 13h 00m 27s.xml">
+      <configuration name="GameModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest - 2019.06.27 at 13h 05m 28s.xml">
+      <configuration name="GameModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest_test02Tower - 2019.06.27 at 13h 06m 51s.xml">
+      <configuration name="GameModelTest.test02Tower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest_test02Tower - 2019.06.27 at 13h 07m 02s.xml">
+      <configuration name="GameModelTest.test02Tower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest_test02Tower - 2019.06.27 at 13h 08m 40s.xml">
+      <configuration name="GameModelTest.test02Tower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest_test02Tower - 2019.06.27 at 13h 27m 42s.xml">
+      <configuration name="GameModelTest.test02Tower" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest_test02King - 2019.06.27 at 13h 28m 07s.xml">
+      <configuration name="GameModelTest.test02King" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest - 2019.06.27 at 13h 32m 47s.xml">
+      <configuration name="GameModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameModelTest - 2019.06.27 at 13h 33m 50s.xml">
+      <configuration name="GameModelTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="235385000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49716714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4022663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14899328" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48016998" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32577905" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.33144477" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/Control.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/layout/Region.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Parent.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesEmpty.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/pieces/PiecesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/BLACK_KNIGHT.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/WHITE_KNIGHT.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/WHITE_ROOK.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/BLACK_QUEEN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/BLACK_PAWN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/stage/Window.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.5.0-M1.jar!/org/junit/platform/commons/util/BlacklistedExceptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/reflect/InvocationTargetException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.instrument/sun/instrument/InstrumentationImpl.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.5.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/WHITE_KING.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/pic/BLACK_KING.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.controls/javafx/scene/control/Button.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Scene.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.base/javafx/event/EventType.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.base/javafx/event/Event.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/ChessPiece.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/ColorPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pt.ipbeja.estig.po2.chess.gui" />
+    <entry file="uml://JAVA/pt.ipbeja.estig.po2.chess.model" />
+    <entry file="file://$PROJECT_DIR$/users.txt" />
+    <entry file="uml://JAVA/pt.ipbeja.estig.po2.chess.pieces" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="160" column="23" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-jupiter-api-5.5.0-M1.jar!/org/junit/jupiter/api/Assertions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="574" selection-start-line="574" selection-end-line="574" />
+          <folding>
+            <element signature="e#19260#19261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/model/ViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="78" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/gui/ChessButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/Pieces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="131" column="37" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3073#3074#0" expanded="true" />
+            <element signature="e#3124#3125#0" expanded="true" />
+            <element signature="e#3670#3671#0" expanded="true" />
+            <element signature="e#3738#3739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/model/GameModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="101" column="24" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
+          <folding>
+            <element signature="e#9303#9304#0" expanded="true" />
+            <element signature="e#9352#9353#0" expanded="true" />
+            <element signature="e#9592#9593#0" expanded="true" />
+            <element signature="e#9643#9644#0" expanded="true" />
+            <element signature="e#9788#9789#0" expanded="true" />
+            <element signature="e#9830#9831#0" expanded="true" />
+            <element signature="e#9937#9938#0" expanded="true" />
+            <element signature="e#9964#9965#0" expanded="true" />
+            <element signature="e#10141#10142#0" expanded="true" />
+            <element signature="e#10189#10190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecePawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3140#3141#0" expanded="true" />
+            <element signature="e#3226#3227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceQueen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14079#14080#0" expanded="true" />
+            <element signature="e#14174#14175#0" expanded="true" />
+            <element signature="e#14303#14304#0" expanded="true" />
+            <element signature="e#14341#14342#0" expanded="true" />
+            <element signature="e#14514#14515#0" expanded="true" />
+            <element signature="e#14540#14541#0" expanded="true" />
+            <element signature="e#14670#14671#0" expanded="true" />
+            <element signature="e#14764#14765#0" expanded="true" />
+            <element signature="e#15255#15256#0" expanded="true" />
+            <element signature="e#15295#15296#0" expanded="true" />
+            <element signature="e#15800#15801#0" expanded="true" />
+            <element signature="e#15897#15898#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesKing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+            <element signature="e#2015#2016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/TypeOfPieces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PiecesBishop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="155" column="106" selection-start-line="155" selection-start-column="106" selection-end-line="155" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7882#7883#0" expanded="true" />
+            <element signature="e#7919#7920#0" expanded="true" />
+            <element signature="e#8002#8003#0" expanded="true" />
+            <element signature="e#8039#8040#0" expanded="true" />
+            <element signature="e#8148#8149#0" expanded="true" />
+            <element signature="e#8243#8244#0" expanded="true" />
+            <element signature="e#8373#8374#0" expanded="true" />
+            <element signature="e#8467#8468#0" expanded="true" />
+            <element signature="e#9096#9097#0" expanded="true" />
+            <element signature="e#9134#9135#0" expanded="true" />
+            <element signature="e#9308#9309#0" expanded="true" />
+            <element signature="e#9334#9335#0" expanded="true" />
+            <element signature="e#9845#9846#0" expanded="true" />
+            <element signature="e#9942#9943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ipbeja/estig/po2/chess/pieces/PieceHorse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pt/ipbeja/estig/po2/chess/model/GameModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="494" column="18" selection-start-line="494" selection-start-column="18" selection-end-line="494" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
