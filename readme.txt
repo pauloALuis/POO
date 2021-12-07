@@ -6,7 +6,7 @@ School project about Object Oriented ProgrammingP
 ROGRAMAÇÃO OREInTADA A OBJECTOS - 2018/2019
 __________________________________
 
-projecto  1 - jogo go galo
+projecto  1 - jogo do galo
 
 -Two players are required for the Game of Rooster. Each player plays with a bag of pulses of a different color.
 The two play alternately, placing a bag on the board. Initially, the board consists of 9 empty circles, lined up on a 3x3 board, the object of the game is to make a line with 3 bags in a column or diagonal, if the board is full but no player has been able to comply this goal, then the game ends in a draw.
